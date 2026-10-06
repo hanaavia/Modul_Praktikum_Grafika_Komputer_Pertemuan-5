@@ -1,4 +1,4 @@
-# Modul Praktikum Grafika Komputer — Pertemuan 5
+# Modul_Praktikum_Grafika_Komputer_Pertemuan-5
 
 # 1. Deskripsi Praktikum
 
